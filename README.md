@@ -22,7 +22,7 @@ Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Trab
 
 ## 📫 **Como Me Encontrar**
 - 🌐 [Meu Portfólio](https://portfolioweb2023.netlify.app)  
-- 📧 Email: [rdg6design@gmail.com](mailto:rdg6design@gmail.com)  
+- 📧 [rdg6design@gmail.com](mailto:rdg6design@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/rodrigosnogueira)  
 - 🐙 [GitHub](https://github.com/rodinogueira)  
 
